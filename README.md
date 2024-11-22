@@ -45,6 +45,7 @@ optional arguments:
 
 - Lab4: The parent folder holding all the project files
   - README: This guide the user is currently reading. Explains package usage
+  - CHarelson_Lab4Analysis: Analysis of all 5 sorting approaches and their algorithmic efficiencies.
   - Lab4_package: The main module within the package
     - __init__.py: Used to show what functions, variables, classes, etc. are exposed when scripts import this module
     - __main__.py: The entrypoint to the program when ran as a program
